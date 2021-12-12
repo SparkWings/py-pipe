@@ -1,2 +1,5 @@
-# py-pipe
-A simple Python TCP port forwarding tool inspired by fpipe. Accepts a connection from Computer-A and port forwards all traffic to Computer-C, making it appear as if Computer-B sent the traffic!
+# Py-Pipe
+======
+Py-Pipe is a TCP Port Forwarder inspired by Foundstone's fpipe program. Accepts a connection from a client (Computer-A) and proxy forwards connection traffic to a remote host (Computer-C) via Computer-B.
+
+
